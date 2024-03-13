@@ -3,7 +3,7 @@
 
 - 🐳 I’m currently working on **Car-Movies**
 
-- 🌱 I’m currently learning **PHP, JavaScript, C#, React, WordPress, Node.JS**
+- 🌱 I’m currently learning **PHP, JavaScript, C#, React, Laravel, Node.JS**
 
 - 📫 How to reach me **fernhedefrida@gmail.com**
 
