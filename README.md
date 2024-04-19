@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frida</h1>
 <h3 align="center">Web development student from Sweden  </h3>
 
-- 🐳 I’m currently working on **Car-Movies**
+- 🐳 I’m currently working on **AstroVoyagers**
 
 - 🌱 I’m currently learning **PHP, JavaScript, C#, React, Laravel, Node.JS**
 
